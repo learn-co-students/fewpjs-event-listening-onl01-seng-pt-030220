@@ -6,6 +6,8 @@ function addingEventListener() {
   });
 }
 
+addingEventListener();
+
 
 //learnco solution
 // const input = document.querySelector('input');
